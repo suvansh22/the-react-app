@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1a8c909.chunk.css",
+    "main.js": "/static/js/main.52e34df8.chunk.js",
+    "main.js.map": "/static/js/main.52e34df8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.1bbaec79.chunk.css": "/static/css/2.1bbaec79.chunk.css",
+    "static/js/2.094e951b.chunk.js": "/static/js/2.094e951b.chunk.js",
+    "static/js/2.094e951b.chunk.js.map": "/static/js/2.094e951b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c038f31911f67b5c45efc536fc38325.js": "/precache-manifest.3c038f31911f67b5c45efc536fc38325.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1bbaec79.chunk.css.map": "/static/css/2.1bbaec79.chunk.css.map",
+    "static/css/main.d1a8c909.chunk.css.map": "/static/css/main.d1a8c909.chunk.css.map",
+    "static/media/IMG_20191128_150351.jpg": "/static/media/IMG_20191128_150351.f7d1a9d0.jpg",
+    "static/media/grocery.png": "/static/media/grocery.3b0a9936.png",
+    "static/media/hanger.svg": "/static/media/hanger.390aea0d.svg",
+    "static/media/login.jpg": "/static/media/login.f12fd1fa.jpg",
+    "static/media/offer.png": "/static/media/offer.01460b0e.png"
+  }
+}
